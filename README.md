@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="https://github.com/Chandrakant817/Chandrakant817/blob/main/Photo.jpg" alt="chandrakant817" /> </p>
 
 <h1 align="center">Hi 👋, I'm Chandrakant Thakur</h1>
 <h3 align="center">A passionate Data Science from India</h3>
