@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/Chandrakant817/Chandrakant817/blob/main/WhatsApp%20Image%202022-12-18%20at%204.38.40%20PM.jpeg" alt="chandrakant817" height="400" width="400"/> </p>
+<p align="center"> <img src="https://github.com/Chandrakant817/Chandrakant817/blob/main/WhatsApp%20Image%202022-12-18%20at%204.38.40%20PM.jpeg" alt="chandrakant817" height="420" width="450"/> </p>
 
 <h1 align="center">Hi 👋, I'm Chandrakant Thakur</h1>
 <h3 align="center">A passionate Data Science from India</h3>
