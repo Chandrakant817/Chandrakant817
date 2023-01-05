@@ -8,6 +8,7 @@
 - 💬 Ask me about **DS,ML,DL and NLP**
 
 - 📫 How to reach me **chandrakantthakur817@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/chandrakant-thakur-314414182/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
