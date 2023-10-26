@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrakant Thakur</h1>
-<h3 align="center">Aspiring Data Scientist from India</h3>
+<h3 align="center">Jr.Associate Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakant817&label=Profile%20views&color=0e75b6&style=flat" alt="chandrakant817" /> </p>
 
